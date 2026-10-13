@@ -2,6 +2,9 @@
 
 A responsive SaaS dashboard built with React, Vite, Tailwind CSS, Lucide React, and Recharts. This project was developed as a technical evaluation to demonstrate frontend architecture, component reusability, responsive design, and state management.
 
+- **Live Demo**: [https://react-dashboard-psi-ten.vercel.app/](https://react-dashboard-psi-ten.vercel.app/)
+- **Repository**: [https://github.com/Krishna-Coder-og/react_dashboard](https://github.com/Krishna-Coder-og/react_dashboard)
+
 ---
 
 ## Overview
